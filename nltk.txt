@@ -1,4 +1,0 @@
-wordnet
-snowball_data
-punkt
-stopwords
